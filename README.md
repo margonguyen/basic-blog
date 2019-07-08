@@ -1,1 +1,1 @@
-# elearning
+# Django basic blog site
