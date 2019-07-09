@@ -1,6 +1,5 @@
 astroid==2.2.5
 Django==2.2.2
--e git://github.com/maraujop/django-crispy-forms.git@dec71c73d5234a42dc74b7f90c26535d3a2b2875#egg=django_crispy_forms
 gunicorn==19.9.0
 isort==4.3.20
 lazy-object-proxy==1.4.1
