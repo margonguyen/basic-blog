@@ -1,5 +1,6 @@
 # Django basic blog site
-
+ I started this project to learn Django framwork, get familiar withh Python, html , css.
+ 
 To run this blog :
 - Install Django by using command line : pip install Django==2.2.3
 - Git clone this repo 
